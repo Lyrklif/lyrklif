@@ -12,9 +12,8 @@
 </p>
 
 ## My GitHub Stats
- <img src="https://github-readme-stats.vercel.app/api?username=lyrklif&show_icons=true&theme=ligth" alt="lyrklif" width="45%" align="right"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyrklif&theme=ligth" width="48%" >
-
+ <img src="https://github-readme-stats.vercel.app/api?username=lyrklif&show_icons=true" alt="lyrklif" width="45%" align="right"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyrklif" alt="lyrklif" width="48%" >
 
 ## Top Languages
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyrklif&layout=compact)
