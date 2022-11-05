@@ -29,3 +29,8 @@ Here are some ideas to get you started:
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-010101?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="git" src="https://img.shields.io/badge/-Git-010101?style=flat-square&logo=git&logoColor=white" />
 </p>
+
+## My GitHub Stats
+
+ <img src="https://github-readme-stats.vercel.app/api?username=lyrklif&show_icons=true&theme=gotham" alt="kritikapattalam" width="45%" align="right"/>
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=lyrklif&theme=dark" width="48%" >
